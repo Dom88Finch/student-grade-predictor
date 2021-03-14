@@ -87,33 +87,33 @@ desc.grid(row=0,column=1)
 
 
 #feature grade_2
-entry_2 = tk.Entry(frame_2, bg='red',font=('Rockwell Extra Bold', 20))
+entry_2 = tk.Entry(frame_2, bg='gray',font=('Rockwell Extra Bold', 20))
 entry_2.grid(row=1,column=2)
 
-desc_2 = tk.Label(frame_2, text=' enter grade 2 [0- 19]')
+desc_2 = tk.Label(frame_2, text=' enter grade 2 [0- 19]',font=('Arial', 14))
 desc_2.grid(row=1,column=1)
 
 # feature study_time
-entry_3 = tk.Entry(frame_2, bg='red',font=('Rockwell Extra Bold', 20))
+entry_3 = tk.Entry(frame_2, bg='gray',font=('Rockwell Extra Bold', 20))
 entry_3.grid(row=2,column=2)
 
 
-desc_3 = tk.Label(frame_2, text=' Study time (hours per_day: [1-4]')
+desc_3 = tk.Label(frame_2, text=' Study time (hours per_day: [1-4]',font=('Arial', 14))
 desc_3.grid(row=2,column=1)
 
-entry_4 = tk.Entry(frame_2, bg='red',font=('Rockwell Extra Bold', 20))
+entry_4 = tk.Entry(frame_2, bg='gray',font=('Rockwell Extra Bold', 20))
 entry_4.grid(row=3,column=2)
 
-desc_4 = tk.Label(frame_2, text='age ([15-22]')
+desc_4 = tk.Label(frame_2, text='age ([15-22]',font=('Arial', 14))
 desc_4.grid(row=3,column=1)
 
 
 
 
-entry_5 = tk.Entry(frame_2, bg='red',font=('Rockwell Extra Bold', 20))
+entry_5 = tk.Entry(frame_2, bg='gray',font=('Rockwell Extra Bold', 20))
 entry_5.grid(row=4,column=2)
 
-desc_5 = tk.Label(frame_2, text='gender [M or F]')
+desc_5 = tk.Label(frame_2, text='gender [M or F]',font=('Arial', 14))
 desc_5.grid(row=4,column=1)
 
 
