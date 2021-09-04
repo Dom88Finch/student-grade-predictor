@@ -10,5 +10,5 @@ Predict student grades using mock test results and hours of revision done weekly
 Instructions:
 Dowload the repository incuding the  `pickle` file and `GUI`.
 
-Run the `GUI` python file to `display the Tinker GUI.
+Run the `GUI` python file to 'display' the Tinker GUI.
 
