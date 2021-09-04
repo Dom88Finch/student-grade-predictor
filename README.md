@@ -9,7 +9,7 @@ Predict student grades using mock test results and hours of revision done weekly
 
 Instructions:
 Dowload the repository or just 
-the  `pickle`  file and `GUI` file `grade_predictor_GUI.py`.
+the  `pickle`  file `studentmodel_new.pickle` and `GUI` file `grade_predictor_GUI.py`.
 
 Run the `GUI` python file to 'display' the Tinker GUI.
 
